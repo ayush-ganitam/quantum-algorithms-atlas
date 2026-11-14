@@ -1,0 +1,5 @@
+eigenvalues of A: [0.6667 1.3333]
+classical solution x: [0.375 1.125]
+classical |x_i|^2 normalised: [0.1 0.9]
+HHL postselected |x_i|^2   : [0.1035 0.8965]
+ancilla success probability: 0.628

@@ -1,0 +1,4 @@
+constant 0         -> {'0': 1024} -> CONSTANT
+constant 1         -> {'0': 1024} -> CONSTANT
+balanced identity  -> {'1': 1024} -> BALANCED
+balanced NOT       -> {'1': 1024} -> BALANCED

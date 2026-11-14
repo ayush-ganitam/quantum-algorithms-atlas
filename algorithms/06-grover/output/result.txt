@@ -1,0 +1,11 @@
+N=16 target=1011 optimal iterations k=3
+top outcome: 1011 P = 0.959
+k=0 simulated=0.0625 theory=0.0625
+k=1 simulated=0.4727 theory=0.4727
+k=2 simulated=0.9084 theory=0.9084
+k=3 simulated=0.9613 theory=0.9613
+k=4 simulated=0.5817 theory=0.5817
+k=5 simulated=0.1255 theory=0.1255
+k=6 simulated=0.0204 theory=0.0204
+k=7 simulated=0.3649 theory=0.3649
+k=8 simulated=0.8361 theory=0.8361

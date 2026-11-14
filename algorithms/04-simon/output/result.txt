@@ -1,0 +1,4 @@
+hidden s = 110
+measured y: ['000', '001', '110', '111']
+all y.s = 0: True
+candidates consistent with every y: ['110']

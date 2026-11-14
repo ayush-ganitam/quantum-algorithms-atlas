@@ -1,0 +1,5 @@
+a= 7 measured k=192 phase=192/256 period r=4 factors of 15: [3, 5]
+a=11 measured k=128 phase=128/256 period r=2 factors of 15: [3, 5]
+a=13 measured k=192 phase=192/256 period r=4 factors of 15: [3, 5]
+a= 2 measured k=192 phase=192/256 period r=4 factors of 15: [3, 5]
+a= 8 measured k=192 phase=192/256 period r=4 factors of 15: [3, 5]

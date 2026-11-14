@@ -1,0 +1,4 @@
+exact electronic energy : -1.857275
+VQE electronic energy   : -1.857275
+absolute error          : 2.02e-10
+VQE total energy (+nuclear repulsion): -1.137306

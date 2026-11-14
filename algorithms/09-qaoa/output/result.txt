@@ -1,0 +1,5 @@
+max cut (brute force): 5
+optimal gamma, beta: [0.5848 1.0285] [3.6589 1.8799]
+expected cut: 4.6234  approximation ratio: 0.9247
+most frequent bitstring: 01001 cut value: 5
+probability of sampling an optimal cut: 0.7087
